@@ -84,6 +84,7 @@ const Games = () => {
               {/* Afficher par rapport a la value  */}
               <form action="">
                 <label htmlFor="title">
+                  Ecrire un nom de jeux pour voir si il est dans la liste:
                   <input
                     id="title"
                     type="text"

@@ -1,6 +1,6 @@
-DROP DATABASE IF EXISTS `CheckGame`;
+DROP DATABASE IF EXISTS `checkgame`;
 
-CREATE DATABASE `CheckGame`;
+CREATE DATABASE `checkgame`;
 
 USE `CheckGame`;
 
