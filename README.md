@@ -6,4 +6,4 @@ Step Three => copy , paste the db-reset to your Mysql to create database
 Step Four => On folder Back => open two terminal => npm run ts | npm run dev
 Step Five => On folder Front => open one terminal => npm run dev
 
-An update comming soon.
+An update comming soon for add, update and delete game.
